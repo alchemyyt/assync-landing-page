@@ -1,0 +1,27 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "landingPage",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alchemyyt/assync-landing-page.git"
+  },
+  "keywords": [
+    "assync",
+    "landing",
+    "page"
+  ],
+  "author": "josemontesdeoca00@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alchemyyt/assync-landing-page/issues"
+  },
+  "homepage": "https://github.com/alchemyyt/assync-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
